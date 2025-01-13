@@ -2,7 +2,7 @@
 
 echo ""
 echo "Join: https://t.me/airdrop_node"
-read -p "Have you join t.me/airdrop_node on tele? (y/Y to proceed): " JOINED
+read -p "Have you join mgsky testnet hunter grup? (y/Y to proceed): " JOINED
 
 if [[ ! "$JOINED" =~ ^[yY]$ ]]; then
     echo ""
